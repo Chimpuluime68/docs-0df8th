@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-qfsehf.travelingspirits.online/sitemap.xml
